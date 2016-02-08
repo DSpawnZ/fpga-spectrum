@@ -28,3 +28,43 @@ DATE = "21:43:01  February 24, 2010"
 # Revisions
 
 PROJECT_REVISION = "spectrum"
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_CE_N
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_LB_N
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_OE_N
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_UB_N
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_WE_N
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[0]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[1]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[2]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[3]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[4]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[5]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[6]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[7]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[8]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[9]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[10]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[11]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[12]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[13]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[14]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[15]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[16]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_ADDR[17]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[0]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[0]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[1]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[2]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[3]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[4]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[5]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[6]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[7]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[8]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[9]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[10]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[11]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[12]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[13]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[14]
+set_instance_assignment -name CYCLONEII_TERMINATION "SERIES 25 OHMS" -to SRAM_DQ[15]
